@@ -226,8 +226,8 @@ st.markdown("""
         </div>
         <div style="display: flex; align-items: center; gap: 12px;">
             <a href="https://github.com/PhongPro69" target="_blank" style="text-decoration: none;">
-                <span class="badge" style="background: rgba(37, 99, 235, 0.25); color: #93c5fd; border: 1px solid rgba(96, 165, 250, 0.5); padding: 4px 12px; font-weight: 700; font-size: 0.78rem;">
-                    👨‍💻 Vũ Thanh Phong (@PhongPro69)
+                <span class="badge" style="background: rgba(37, 99, 235, 0.2); color: #93c5fd; border: 1px solid rgba(96, 165, 250, 0.4); padding: 4px 12px; font-weight: 700; font-size: 0.78rem; letter-spacing: 0.02em;">
+                    Vũ Thanh Phong (@PhongPro69)
                 </span>
             </a>
             <div style="font-size: 0.78rem; color: #cbd5e1;">
