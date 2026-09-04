@@ -85,7 +85,7 @@ The platform bridges automated data ingestion with an enterprise-ready relationa
 
 The DDL definition is provided in [`schema.sql`](schema.sql):
 
-```sql
+```ddl
 -- Dimension: Asset Metadata
 CREATE TABLE dim_company (
     ticker          VARCHAR(10) PRIMARY KEY,
