@@ -2,11 +2,14 @@
 
 [English](README.md) | **Tiếng Việt**
 
+[![Trải nghiệm Trực tiếp](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vnstock-market-forecaster.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://vnstock-market-forecaster.streamlit.app/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00?logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Model-EB5424)](https://xgboost.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> 🚀 **Trải nghiệm Demo Trực tiếp trên Cloud**: **[https://vnstock-market-forecaster.streamlit.app](https://vnstock-market-forecaster.streamlit.app/)**
 
 Hệ thống nghiên cứu định lượng (Quantitative Research) và dự báo xu hướng giá cổ phiếu toàn diện dành cho thị trường chứng khoán Việt Nam (rổ chỉ số VN30 / sàn HOSE & HNX).
 

@@ -2,11 +2,14 @@
 
 **English** | [Tiếng Việt](README_VI.md)
 
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vnstock-market-forecaster.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://vnstock-market-forecaster.streamlit.app/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00?logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Model-EB5424)](https://xgboost.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> 🚀 **Interactive Cloud Terminal**: **[https://vnstock-market-forecaster.streamlit.app](https://vnstock-market-forecaster.streamlit.app/)**
 
 An end-to-end quantitative research and predictive analytics terminal engineered for the Vietnamese equity market (VN30 / HOSE / HNX).
 
