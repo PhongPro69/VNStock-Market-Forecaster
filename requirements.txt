@@ -6,7 +6,9 @@ scikit-learn>=1.4.0
 xgboost>=2.0.3
 lightgbm>=4.3.0
 statsmodels>=0.14.1
-torch>=2.2.0
+
+# Database Layer
+SQLAlchemy>=2.0.0
 
 # Vietnam Financial Data & Scraping
 requests>=2.31.0
