@@ -2,7 +2,15 @@
 
 [English](README.md) | **Tiếng Việt**
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00?logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Model-EB5424)](https://xgboost.readthedocs.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Hệ thống nghiên cứu định lượng (Quantitative Research) và dự báo xu hướng giá cổ phiếu toàn diện dành cho thị trường chứng khoán Việt Nam (rổ chỉ số VN30 / sàn HOSE & HNX).
+
+![VN-Quant Terminal Minh Họa Giao Diện](assets/terminal_preview.png)
 
 Dự án được xây dựng từ quy trình thu thập dữ liệu tự động, lưu trữ vào kho dữ liệu quan hệ chuẩn doanh nghiệp (**SQL Data Warehouse**), tính toán đặc trưng định lượng, áp dụng các thuật toán Machine Learning kết hợp mô phỏng ngẫu nhiên **Monte Carlo (Geometric Brownian Motion)**, và kiểm thử chiến lược giao dịch tự động (**Algorithmic Backtesting**).
 

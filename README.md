@@ -2,9 +2,17 @@
 
 **English** | [Tiếng Việt](README_VI.md)
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00?logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Model-EB5424)](https://xgboost.readthedocs.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 An end-to-end quantitative research and predictive analytics terminal engineered for the Vietnamese equity market (VN30 / HOSE / HNX).
 
 **Author**: Vũ Thanh Phong ([@PhongPro69](https://github.com/PhongPro69))
+
+![VN-Quant Terminal Preview](assets/terminal_preview.png)
 
 The platform bridges automated data ingestion with an enterprise-ready relational SQL data warehouse, statistical feature engineering, machine learning regression models, Monte Carlo stochastic projections, and algorithmic strategy backtesting.
 
